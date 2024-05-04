@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3689593710320088906}
   - component: {fileID: 1433104604263121268}
   - component: {fileID: 8952124827882254451}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: SafeBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91,7 +91,7 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6604229013189002852}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 68d3b33bcdd32554d900d81a1382a6b7, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
